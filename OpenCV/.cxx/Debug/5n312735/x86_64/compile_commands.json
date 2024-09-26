@@ -1,7 +1,7 @@
 [
 {
-  "directory": "C:/Users/leoza/OneDrive/Documentos/Demos_SaVR/Demo_SaVR_1/OpenCV/.cxx/Debug/5n312735/x86_64",
-  "command": "D:\\Android_SDK\\ndk\\26.1.10909125\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=D:/Android_SDK/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\opencv_jni_shared.dir\\dummy.cpp.o -c C:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\libcxx_helper\\dummy.cpp",
-  "file": "C:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\libcxx_helper\\dummy.cpp"
+  "directory": "C:/Users/Marcos Juarez/Documents/RANK/Demo_SaVR_4/OpenCV/.cxx/Debug/5n312735/x86_64",
+  "command": "C:\\Users\\MARCOS~1\\AppData\\Local\\Android\\Sdk\\ndk\\261~1.109\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=x86_64-none-linux-android21 --sysroot=\"C:/Users/Marcos Juarez/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\opencv_jni_shared.dir\\dummy.cpp.o -c \"C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\libcxx_helper\\dummy.cpp\"",
+  "file": "C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\libcxx_helper\\dummy.cpp"
 }
 ]

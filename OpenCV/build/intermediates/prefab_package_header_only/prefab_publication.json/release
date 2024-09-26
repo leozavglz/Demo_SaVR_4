@@ -1,5 +1,5 @@
 {
-  "installationFolder": "C:\\Users\\leoza\\Demo_SaVR_1\\OpenCV\\build\\intermediates\\prefab_package\\release\\prefab",
+  "installationFolder": "C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\build\\intermediates\\prefab_package\\release\\prefab",
   "gradlePath": ":OpenCV",
   "packageInfo": {
     "packageName": "OpenCV",
@@ -8,7 +8,7 @@
     "modules": [
       {
         "moduleName": "opencv_jni_shared",
-        "moduleHeaders": "C:\\Users\\leoza\\Demo_SaVR_1\\OpenCV\\native\\jni\\include",
+        "moduleHeaders": "C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\native\\jni\\include",
         "moduleExportLibraries": [],
         "abis": []
       }

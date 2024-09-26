@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/leoza/Demo_SaVR_1/OpenCV/libcxx_helper
+# Install script for directory: C:/Users/Marcos Juarez/Documents/RANK/Demo_SaVR_4/OpenCV/libcxx_helper
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/Android_SDK/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/Marcos Juarez/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/leoza/Demo_SaVR_1/OpenCV/.cxx/Debug/5n312735/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Marcos Juarez/Documents/RANK/Demo_SaVR_4/OpenCV/.cxx/Debug/5n312735/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

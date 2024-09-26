@@ -1,19 +1,19 @@
 @echo off
-"D:\\Android_SDK\\cmake\\3.22.1\\bin\\cmake.exe" ^
-  "-HC:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\libcxx_helper" ^
+"C:\\Users\\Marcos Juarez\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\libcxx_helper" ^
   "-DCMAKE_SYSTEM_NAME=Android" ^
   "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
   "-DCMAKE_SYSTEM_VERSION=21" ^
   "-DANDROID_PLATFORM=android-21" ^
   "-DANDROID_ABI=x86_64" ^
   "-DCMAKE_ANDROID_ARCH_ABI=x86_64" ^
-  "-DANDROID_NDK=D:\\Android_SDK\\ndk\\26.1.10909125" ^
-  "-DCMAKE_ANDROID_NDK=D:\\Android_SDK\\ndk\\26.1.10909125" ^
-  "-DCMAKE_TOOLCHAIN_FILE=D:\\Android_SDK\\ndk\\26.1.10909125\\build\\cmake\\android.toolchain.cmake" ^
-  "-DCMAKE_MAKE_PROGRAM=D:\\Android_SDK\\cmake\\3.22.1\\bin\\ninja.exe" ^
-  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\build\\intermediates\\cxx\\Debug\\5n312735\\obj\\x86_64" ^
-  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\build\\intermediates\\cxx\\Debug\\5n312735\\obj\\x86_64" ^
+  "-DANDROID_NDK=C:\\Users\\Marcos Juarez\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\Marcos Juarez\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\Marcos Juarez\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\Marcos Juarez\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\build\\intermediates\\cxx\\Debug\\5n312735\\obj\\x86_64" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\build\\intermediates\\cxx\\Debug\\5n312735\\obj\\x86_64" ^
   "-DCMAKE_BUILD_TYPE=Debug" ^
-  "-BC:\\Users\\leoza\\OneDrive\\Documentos\\Demos_SaVR\\Demo_SaVR_1\\OpenCV\\.cxx\\Debug\\5n312735\\x86_64" ^
+  "-BC:\\Users\\Marcos Juarez\\Documents\\RANK\\Demo_SaVR_4\\OpenCV\\.cxx\\Debug\\5n312735\\x86_64" ^
   -GNinja ^
   "-DANDROID_STL=c++_shared"
